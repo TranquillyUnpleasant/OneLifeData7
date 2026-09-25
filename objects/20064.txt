@@ -1,5 +1,5 @@
 id=20064
-North-South Marking with Two Ornate Panels
+North-South Marking with Two Ornate Panels #white
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

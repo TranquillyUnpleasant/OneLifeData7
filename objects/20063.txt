@@ -1,5 +1,5 @@
 id=20063
-East-West Marking with Two Ornate Panels and Spring
+East-West Marking with Two Ornate Panels and Spring #white
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

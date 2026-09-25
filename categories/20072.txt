@@ -1,0 +1,6 @@
+parentID=20072
+pattern
+numObjects=3
+8327
+8329
+8328

@@ -1,5 +1,5 @@
 id=14064
-Floor Marking #red
+Floor Marking #blue
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -34,7 +34,7 @@ spriteID=200000
 pos=0.000000,0.000000
 rot=0.000000
 hFlip=0
-color=0.750000,0.250000,0.250000
+color=0.700000,0.840000,1.00000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

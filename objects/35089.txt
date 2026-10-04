@@ -1,7 +1,7 @@
 id=35089
 Mortar and Pestle with wet Chalk Powder
-containable=1
-containSize=2.000000,vertSlotRot=-0.250000
+containable=0
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=1
 sideAccess=0

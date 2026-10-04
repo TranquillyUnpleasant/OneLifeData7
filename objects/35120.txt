@@ -1,5 +1,5 @@
 id=35120
-Mortar and Pestle with Shaped Blue Chalk Paste#blue
+Mortar and Pestle with Shaped Chalk Paste#blue
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -53,7 +53,7 @@ spriteID=200004
 pos=-4.000000,-26.000000
 rot=-0.125000
 hFlip=0
-color=0.400000,0.540000,0.80000
+color=0.400000,0.540000,0.800000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

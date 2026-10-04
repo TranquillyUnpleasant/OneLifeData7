@@ -1,5 +1,5 @@
 id=35124
-Cool Flat Rock with Blue Chalk#blue
+Cool Flat Rock with Chalk#blue
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -52,7 +52,7 @@ spriteID=200004
 pos=3.000000,-20.000000
 rot=0.000000
 hFlip=0
-color=0.600000,0.740000,1.00000
+color=0.600000,0.740000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

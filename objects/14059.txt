@@ -34,7 +34,7 @@ spriteID=200003
 pos=0.000000,0.000000
 rot=0.000000
 hFlip=0
-color=0.600000,0.740000,1.00000
+color=0.600000,0.740000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -57,6 +57,7 @@ ageRange=-1.000000,-1.000000
 parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
+spritesDrawnBehind=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
@@ -64,4 +65,4 @@ frontFootIndex=-1
 numUses=2,1.000000
 useVanishIndex=1,2
 useAppearIndex=-1
-pixHeight=68
+pixHeight=69

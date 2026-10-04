@@ -151,7 +151,7 @@ spriteID=200004
 pos=3.000000,-18.000000
 rot=0.000000
 hFlip=0
-color=0.400000,0.540000,0.800000
+color=0.400000,0.540000,0.80000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
